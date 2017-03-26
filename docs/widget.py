@@ -98,11 +98,6 @@ p.xaxis.formatter = NumeralTickFormatter(format="0")
 p.yaxis.formatter = NumeralTickFormatter(format="0")
 p.title.text_font_size = "16pt"
 
-html = file_html(p, CDN, "my plot")
-handle = open("filename.html","w")
-handle.write(html)
-handle.close
-
 
 # 6 different line colors, 3 different line widths, 3 different line dashes
 #line_color
