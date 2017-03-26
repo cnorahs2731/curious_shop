@@ -4,7 +4,7 @@ Files are in the [docs] folder.
 <br/>
 
 <b><i>widget.py</i></b>
-</br>is a bokeh-based interactive app that plots the Energy Star scores of buildings by paramters such as business type, state, gross square footage, and year constructed. It needs the following files to be in the same directory: <br/>
+</br>is a bokeh-based interactive app that plots the Energy Star scores of buildings by parameters such as business type, state, gross square footage, and year constructed. It needs the following files to be in the same directory: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  <i><b>EnergyStarBuildingsForPlot.csv</i></b>	 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;  <i><b>allStates.txt</i></b>		<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;  <i><b>info.html</i></b>		<br/>
