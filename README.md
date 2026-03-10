@@ -1,7 +1,4 @@
-# curious_shop
-
-Files are in the [docs] folder.
-<br/>
+# Energy Star Scores Exploration 
 
 <b><i>widget.py</i></b>
 </br>is a bokeh-based interactive app that plots the Energy Star scores of buildings by parameters such as business type, state, gross square footage, and year constructed. It needs the following files to be in the same directory: <br/>
@@ -20,7 +17,7 @@ or
 pip install bokeh
 pip install pandas
 ```
-Download the files, then at a command prompt, navigate to the download directory and run 
+Files are in the [docs] folder. Download the files, then at a command prompt, navigate to the download directory and run 
 ```
 bokeh serve --show widget.py
 ```
